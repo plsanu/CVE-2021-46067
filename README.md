@@ -4,7 +4,7 @@
 ### Exploit Author: <a href="https://www.plsanu.com">P.L.Sanu</a>
 ### CVE: CVE-2021-46067
 ### CVSS: 9.8 CRITICAL
-### Reference: 
+### References: 
 - https://www.plsanu.com/vehicle-service-management-system-multiple-cookie-stealing-leads-to-full-account-takeover
 - https://nvd.nist.gov/vuln/detail/CVE-2021-46067
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-46067
