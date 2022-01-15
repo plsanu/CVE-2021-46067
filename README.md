@@ -20,7 +20,7 @@ In Vehicle Service Management System 1.0 an attacker can steal the cookies leadi
 3. Generate the Webhook URL - https://webhook.site
 4. Copy the Webhook unique URL and paste it in the below html code.
 
-### Code:
+### Payload:
 ```html
 <!DOCTYPE html>
 <html>
@@ -50,7 +50,7 @@ In Vehicle Service Management System 1.0 an attacker can steal the cookies leadi
 3. Generate the Webhook URL - https://webhook.site
 4. Copy the Webhook unique URL and paste it in the below html code.
 
-### Code:
+### Payload:
 ```html
 <!DOCTYPE html>
 <html>
@@ -80,7 +80,7 @@ In Vehicle Service Management System 1.0 an attacker can steal the cookies leadi
 3. Generate the Webhook URL - https://webhook.site
 4. Copy the Webhook unique URL and paste it in the below html code.
 
-### Code:
+### Payload:
 ```html
 <!DOCTYPE html>
 <html>
@@ -110,7 +110,7 @@ In Vehicle Service Management System 1.0 an attacker can steal the cookies leadi
 3. Generate the Webhook URL - https://webhook.site
 4. Copy the Webhook unique URL and paste it in the below html code.
 
-### Code:
+### Payload:
 ```html
 <!DOCTYPE html>
 <html>
